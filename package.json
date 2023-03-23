@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "shkartanets-weather-cli-demo",
   "version": "1.0.0",
   "description": "",
   "main": "weather.js",
@@ -18,7 +18,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/GrigoriyShkarta/CLI_weather"
   },
   "dependencies": {
     "@types/node": "^18.15.3",
